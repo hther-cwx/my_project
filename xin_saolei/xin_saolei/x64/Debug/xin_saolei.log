@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\15810\Desktop\xin_saolei\xin_saolei\test.cpp(90,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  xin_saolei.vcxproj -> C:\Users\15810\Desktop\xin_saolei\x64\Debug\xin_saolei.exe
